@@ -1,7 +1,6 @@
-<!-- 배너 이미지 (원하는 이미지 URL로 바꿔주세요) -->
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&text=Hoshino&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Woojin Lee</h1>
 <h3 align="center">I turn ideas into reality and imagination into code.</h3>
