@@ -12,8 +12,7 @@
 - 🔭 I’m currently working on [Project - The Last Heir](https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a)
 - 🌱 Currently learning **Java, Spring Boot**
 - 👨‍💻 All of my projects are available [here on Notion](https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06)
-- 💬 Ask me about **Hoshino-chan 💗**
-- 📫 Reach me at **hoshino-love0102@github.com**
+- 📫 Reach me at **hoshino.whale0102@gmail.com**
 
 ---
 
