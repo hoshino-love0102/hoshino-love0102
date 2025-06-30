@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&text=Hoshino&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&text=WooJin&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Woojin Lee</h1>
