@@ -9,10 +9,23 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project - The Last Heir](https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a)
-- 🌱 Currently learning **Java, Spring Boot**
-- 👨‍💻 All of my projects are available [here on Notion](https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06)
-- 📫 Reach me at **hoshino.whale0102@gmail.com**
+<p align="center">
+  <a href="mailto:hoshino.whale0102@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/woo.jin_04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🔭 I’m currently working on <strong><a href="https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a" target="_blank">Project - The Last Heir</a></strong><br>
+  🌱 Currently learning <strong>Java, Spring Boot</strong><br>
+  👨‍💻 All of my projects are available <a href="https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06" target="_blank">here on Notion</a><br>
+</p>
 
 ---
 
@@ -64,6 +77,6 @@
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hoshino-love0102?pet-id=1" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/hoshino-love0102?pet-id=1" width="1000" height="120"/>
   </a>
 </p>
