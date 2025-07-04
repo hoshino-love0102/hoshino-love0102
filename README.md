@@ -60,3 +60,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals" target="_blank">
+    <img src="https://render.gitanimals.org/farms/hoshino-love0102"
+         alt="GitAnimals"
+         style="width: 400px; max-width: 90%; height: auto; border: 3px solid #4facfe; border-radius: 20px;" />
+  </a>
+</p>
+
