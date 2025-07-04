@@ -63,8 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals" target="_blank">
-    <img src="https://render.gitanimals.org/farms/hoshino-love0102"
-         alt="GitAnimals" width="400" />
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
   </a>
 </p>
