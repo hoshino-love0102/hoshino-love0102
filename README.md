@@ -16,38 +16,29 @@
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,python,html,css" height="50" />
-</p>
+### Languages
+- C
+- Java
+- JavaScript
+- Python
+- HTML5
+- CSS3
 
----
+### Frameworks & Libraries
+- Spring Boot
+- Django
+- Flask
 
-## ⚙️ Frameworks & Libraries
+### Databases
+- MariaDB
+- MySQL
+- MongoDB
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,flask" height="50" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="50" style="background-color:white; padding:5px; border-radius:5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-</p>
-
----
-
-## ☁️ Other Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" style="background-color:white; padding:5px; border-radius:5px;" />
-</p>
+### Other Tools & Platforms
+- Firebase
+- Pandas
 
 ---
 
@@ -68,4 +59,3 @@
          style="width: 400px; max-width: 90%; height: auto; border: 3px solid #4facfe; border-radius: 20px;" />
   </a>
 </p>
-
