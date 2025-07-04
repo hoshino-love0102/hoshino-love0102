@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/woo.jin_04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://velog.io/@wj1643/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
