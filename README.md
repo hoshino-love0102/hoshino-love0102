@@ -25,7 +25,6 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <strong><a href="https://jet-airedale-058.notion.site/Project-Name-The-Last-Heir-20ed923297628006be3ccd4b42e2e38a" target="_blank">Project - The Last Heir</a></strong><br>
   🌱 Currently learning <strong>Java, Spring Boot</strong><br>
   👨‍💻 All of my projects are available <a href="https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06" target="_blank">here on Notion</a><br>
 </p>
