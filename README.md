@@ -69,72 +69,8 @@
 
 ---
 
-<div align="center">
-  <h2>📊 My Stats & Profiles</h2>
-  <div style="
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 20px;
-  ">
-    <!-- GitHub Stats -->
-    <div style="
-      background: #f5f5f5;
-      border-radius: 10px;
-      padding: 20px;
-      width: 320px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    ">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" width="300" alt="Woojin's GitHub stats" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" width="300" alt="Top Languages" />
-    </div>
+## 📊 My Stats & Profiles
 
-    <!-- GitAnimals -->
-    <div style="
-      background: #f5f5f5;
-      border-radius: 10px;
-      padding: 20px;
-      width: 320px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    ">
-      <h3>GitAnimals</h3>
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="300" height="150"/>
-      </a>
-    </div>
-
-    <!-- Baekjoon -->
-    <div style="
-      background: #f5f5f5;
-      border-radius: 10px;
-      padding: 20px;
-      width: 320px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    ">
-      <h3>Baekjoon Online Judge</h3>
-      <a href="https://solved.ac/profile/lwj6453">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" width="300" />
-      </a>
-    </div>
-
-    <!-- Custom Fourth Box (예시) -->
-    <div style="
-      background: #f5f5f5;
-      border-radius: 10px;
-      padding: 20px;
-      width: 320px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    ">
-      <h3>About Me</h3>
-      <p style="text-align: center;">
-        Backend Developer <br>
-        끊임없이 배우고 성장합니다.
-      </p>
-    </div>
-
-  </div>
-</div>
-
+| GitHub Stats | GitAnimals | Baekjoon | About Me |
+| --- | --- | --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light) | [![GitAnimals](https://render.gitanimals.org/farms/hoshino-love0102)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm) | [![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453)](https://solved.ac/profile/lwj6453) | **Backend Developer**<br>배움을 멈추지 않는 개발자 |
