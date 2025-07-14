@@ -69,8 +69,38 @@
 
 ---
 
-## 📊 My Stats & Profiles
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 My Stats & Profiles </h2>
+</div>
 
-| GitHub Stats | GitAnimals | Baekjoon | About Me |
-| --- | --- | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light) <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light) | [![GitAnimals](https://render.gitanimals.org/farms/hoshino-love0102)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm) | [![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453)](https://solved.ac/profile/lwj6453) | **Backend Developer**<br>배움을 멈추지 않는 개발자 |
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <div>
+    <h3 style="color: #c9d1d9;">✨ GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" />
+  </div>
+
+  <br/><br/>
+
+  <!-- GitAnimals -->
+  <div>
+    <h3 style="color: #c9d1d9;">🐾 GitAnimals</h3>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="600" height="300"/>
+    </a>
+  </div>
+
+  <br/><br/>
+
+  <!-- Baekjoon -->
+  <div>
+    <h3 style="color: #c9d1d9;">🏅 Baekjoon Online Judge</h3>
+    <a href="https://solved.ac/profile/lwj6453">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" />
+    </a>
+  </div>
+
+</div>
