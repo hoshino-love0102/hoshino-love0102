@@ -13,7 +13,7 @@
   <a href="mailto:hoshino.whale0102@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06" target="_blank">
+  <a href="일단비공개" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/woo.jin_04/" target="_blank">
