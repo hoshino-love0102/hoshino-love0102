@@ -69,22 +69,26 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- GitHub Stats -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" alt="Woojin's GitHub stats" />
-</p>
-
-<p align="center">
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
+<!-- GitAnimals -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🐾 GitAnimals </h2>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="600" height="300"/>
   </a>
+</div>
+
+<!-- Baekjoon -->
+<div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Baekjoon Online Judge </h2>
   <a href="https://solved.ac/profile/lwj6453">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" />
   </a>
-</p>
+</div>
