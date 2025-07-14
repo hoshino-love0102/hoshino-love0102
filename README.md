@@ -69,38 +69,33 @@
 
 ---
 
-<div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 My Stats & Profiles </h2>
-</div>
+<!-- My Stats & Profiles -->
+<h2 align="center">📊 My Stats & Profiles</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%" style="border: 1px solid #444; padding: 10px;">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" width="300px"/>
+    </td>
+    <td align="center" valign="top" width="50%" style="border: 1px solid #444; padding: 10px;">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" width="300px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%" style="border: 1px solid #444; padding: 10px;">
+      <h3>GitAnimals</h3>
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="300px" height="150px"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%" style="border: 1px solid #444; padding: 10px;">
+      <h3>Baekjoon</h3>
+      <a href="https://solved.ac/profile/lwj6453">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" width="300px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Stats -->
-  <div>
-    <h3 style="color: #c9d1d9;">✨ GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" />
-  </div>
-
-  <br/><br/>
-
-  <!-- GitAnimals -->
-  <div>
-    <h3 style="color: #c9d1d9;">🐾 GitAnimals</h3>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="600" height="300"/>
-    </a>
-  </div>
-
-  <br/><br/>
-
-  <!-- Baekjoon -->
-  <div>
-    <h3 style="color: #c9d1d9;">🏅 Baekjoon Online Judge</h3>
-    <a href="https://solved.ac/profile/lwj6453">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" />
-    </a>
-  </div>
-
-</div>
