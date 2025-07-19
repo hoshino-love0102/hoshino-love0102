@@ -26,7 +26,7 @@
 
 <p align="center">
   🌱 Currently learning <strong>Java, Spring Boot</strong><br>
-  👨‍💻 All of my projects are available <a href="https://www.notion.so/LWJ-1f0a79b03013805d9d07e3ed47c72e06" target="_blank">here on Notion</a><br>
+  👨‍💻 All of my projects are available <a href="#" target="_blank">here on Notion</a><br>
 </p>
 
 ---
