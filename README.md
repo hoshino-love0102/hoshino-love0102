@@ -59,11 +59,11 @@
   <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitHub Stats</h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoshino-love0102&theme=github_dark" width="300px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" width="300px"/>
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>Most Used Languages</h3>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoshino-love0102&theme=github_dark" width="300px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" width="300px"/>
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
@@ -76,7 +76,8 @@
 
 <br>
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact" width="95%" />
 </p>
+
