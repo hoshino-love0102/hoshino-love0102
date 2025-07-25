@@ -53,10 +53,27 @@
 
 ---
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 GitHub Stats </h2> 
-  <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
-  </div> 
-</div>
+<h2 align="center">My Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" width="300px"/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" width="300px"/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+      <h3>GitAnimals</h3>
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="300px" height="150px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+<!-- Activity Graph -->
+[![hoshino-love0102's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
+
