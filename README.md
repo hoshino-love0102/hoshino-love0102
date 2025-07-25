@@ -50,3 +50,11 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 이런 언어를 사용하고 있어요. </h2> 
+  <div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
+  </div> 
+</div>
