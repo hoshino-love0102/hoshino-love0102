@@ -59,11 +59,11 @@
   <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&theme=light" width="300px"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoshino-love0102&theme=github_dark" width="300px"/>
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&theme=light" width="300px"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoshino-love0102&theme=github_dark" width="300px"/>
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
@@ -73,7 +73,10 @@
     </td>
   </tr>
 </table>
-<br>
-<!-- Activity Graph -->
-[![hoshino-love0102's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
 
+<br>
+
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact" width="95%" />
+</p>
