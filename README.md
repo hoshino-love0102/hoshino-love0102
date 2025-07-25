@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 GitHub Stats </h2> 
   <div style="text-align: left;"> 
