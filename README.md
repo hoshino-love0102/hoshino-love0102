@@ -57,18 +57,26 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" width="300px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoshino-love0102&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" width="400px" />
     </td>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 10px;">
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" width="300px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshino-love0102&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff" width="400px" />
     </td>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 10px;">
       <h3>GitAnimals</h3>
       <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hoshino-love0102&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="300px" height="150px"/>
+        <img src="https://render.gitanimals.org/farms/hoshino-love0102" width="400px" height="200px"/>
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 10px;">
+      <h3>Baekjoon Stats</h3>
+      <a href="https://solved.ac/lwj6453">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lwj6453" width="400px" />
       </a>
     </td>
   </tr>
@@ -80,4 +88,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact" width="95%" />
 </p>
-
