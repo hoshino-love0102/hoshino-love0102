@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87cefa,100:1e90ff&height=180&text=woojin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
+<div align="center">
+  <h3>까짓거 함 해보는 개발자, 이우진입니다</h3>
+</div>
+
 ## 🔗 To Connect
 <p align="center">
   <a href="https://www.instagram.com/woo.jin_04/" target="_blank">
