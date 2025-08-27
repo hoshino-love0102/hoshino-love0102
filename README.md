@@ -88,10 +88,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshino-love0102&theme=github-compact" width="95%" />
-</p>
