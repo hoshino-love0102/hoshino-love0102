@@ -25,8 +25,6 @@
 ---
 
 ## 💻 Tech Stack  
-> 제가 주로 사용해본 기술들을 카테고리별로 정리했습니다.
-
 #### 🧑‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
