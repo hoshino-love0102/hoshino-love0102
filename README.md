@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/neon-frame-top.gif" />
-</p>
-
 <div align="center">
   <h1>woojin's Github</h1>
 </div>
@@ -33,3 +29,7 @@
   }
 }
 ```
+
+<p align="center">
+  <img src="./icegif-286.gif" alt="nyan cat gif" width="400"/>
+</p>
