@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87cefa,100:1e90ff&height=180&text=woojin's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
