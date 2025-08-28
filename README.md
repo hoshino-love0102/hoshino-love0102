@@ -22,7 +22,9 @@
   </a>
 </p>
 
-## 💻 Tech Stack
+## 🖥 Tech Stack  
+
+```json
 {
   "Languages": ["Java", "Python", "C", "HTML5", "CSS3", "JavaScript"],
   "Backend": ["Spring", "Django", "Flask", "FastAPI", "Node.js", "Express.js", "Socket.IO"],
